@@ -1,7 +1,9 @@
 # NieR:Automata Minimalist NXTheme for Nintendo Switch
 
-<img src="https://github.com/kmnthecoder/Persona-5-Clock-Face/blob/master/demo/persona-5-face-demo.gif" width="1280" height="720">
-
+<img src="https://github.com/kmnthecoder/NieR-Automata-Minimalist-NXTheme/blob/master/screenshots/homescreen.jpg" width="640" height="360">
+<img src="https://github.com/kmnthecoder/NieR-Automata-Minimalist-NXTheme/blob/master/screenshots/lockscreen.jpg" width="640" height="360">
+<img src="https://github.com/kmnthecoder/NieR-Automata-Minimalist-NXTheme/blob/master/screenshots/appdrawer.jpg" width="640" height="360">
+<img src="https://github.com/kmnthecoder/NieR-Automata-Minimalist-NXTheme/blob/master/screenshots/settings.jpg" width="640" height="360">
 
 A minimalist NieR:Automata theme made for NXThemes Installer.
 
