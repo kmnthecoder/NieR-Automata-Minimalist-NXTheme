@@ -9,3 +9,5 @@ Tested working on:
 - Switch version 10.0.4
 
 Original backgrounds are included if you wish to swap backgrounds. You can also extract the layout and backgrounds using the NXThemes desktop tool.
+
+Credits to Such Meme, Many Skill, Akai, and Migush for the layouts.
