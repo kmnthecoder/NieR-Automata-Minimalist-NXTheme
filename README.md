@@ -1,9 +1,8 @@
 # NieR:Automata Minimalist NXTheme for Nintendo Switch
 
-<img src="https://github.com/kmnthecoder/NieR-Automata-Minimalist-NXTheme/blob/master/screenshots/niercollage2.png">
-
-
 A minimalist NieR:Automata theme made for NXThemes Installer.
+
+<img src="https://github.com/kmnthecoder/NieR-Automata-Minimalist-NXTheme/blob/master/screenshots/niercollage2.png">
 
 Tested working on:
 - NXThemes Installer 2.3.3
